@@ -1,0 +1,2 @@
+Git is the tool that tracks changes to files you edit.
+GitHub is the website where the Git projects can be stored and shared.
